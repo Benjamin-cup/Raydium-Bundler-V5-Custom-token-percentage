@@ -1,22 +1,23 @@
 # Solana Raydium Bundler Using JITO and LOOKUPTABLE with setting custom wallet token percent
 
-As solana raydium jito bundler, it designed to facilitate buying and selling with 21 wallets simultaneously on the Solana blockchain. It used cutting-edge technologies for solana bundler so it's wonderful for for users looking to manage multiple transactions efficiently and effectively. And the main wallet is first wallet of 21 bundle wallets . 21 wallets have custom setting token percent. This is basic version for giving basic understanding solana bundler on raydium using jito, so for real product, you need to get advanced version. Feel free to reach out of me when you need advanced version( https://t.me/erikerik116)
+As solana raydium jito bundler, it designed to facilitate buying and selling with 21 wallets simultaneously on the Solana blockchain. It used cutting-edge technologies for solana bundler so it's wonderful for for users looking to manage multiple transactions efficiently and effectively. And the main wallet is first wallet of 21 bundle wallets . 21 wallets have custom setting token percent. This is basic version for giving basic understanding solana bundler on raydium using jito, so for real product, you need to get advanced version. Feel free to reach out of me when you need advanced version( https://t.me/SOLBenjaminCup)
 You can set the 21 wallet token percent.
 And the main wallet is setted the first of 21 wallets in this bot. 
 
 ## Contact me
 
-discord:  @erikerik116
+Gmail: benjamin.bigdev@gmail.com
 
-telegram: @erikerik116
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
 
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
 
 ## Getting Started
 
 To get started with the Solana Raydium Bundler, follow these steps to ensure a smooth setup and execution process.
 
 #### Clone my repository
-Git clone https://github.com/eriksol116/Raydium-Bundler-V5-Custom-token-percentage.git
+Git clone https://github.com/Benjamin-cup/Raydium-Bundler-V5-Custom-token-percentage.git
 
 ## Wallet token percentage
 
@@ -33,4 +34,4 @@ The Solana Raydium Bundler is a robust tool for managing multiple transactions o
 
 Follow me on github and give star to this repository.
 
-For more information, reach out of me (https://t.me/erikerik116)
+For more information, reach out of me (https://t.me/SOLBenjaminCup)
